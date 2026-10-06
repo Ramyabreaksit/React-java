@@ -2,7 +2,7 @@ import React, { useState }from 'react';
 
 function SearchFilter() {
     const [search, setSearch]=useState("");
-    const users=["Tilak","Shreyes","Virat","Dhoni","Rohit","Ruturaj","Sooriyavanshi"];
+    const users=["Tilak","Shreyes","Virat","Dhoni","Rohit","Ruturaj","Sooriyavanshi","Jaishwalgit status"];
 
     const filteredUsers=users.filter((user)=>
     user.toLowerCase().includes(search.toLowerCase())

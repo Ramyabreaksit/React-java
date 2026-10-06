@@ -7,7 +7,8 @@ function Filter() {
         {id:2,name:"jason",age:24},
         {id:3,name:"Kumaran",age:18},
         {id:4,name:"Vinoth",age:17},
-        {id:5,name:"Shreyes",age:23}
+        {id:5,name:"Shreyes",age:23},
+        {id:6,name:"virat",age:28}
         
     ]);
 
